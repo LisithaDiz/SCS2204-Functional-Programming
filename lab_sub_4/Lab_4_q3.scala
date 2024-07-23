@@ -14,7 +14,6 @@ object StringFormatter {
   def main(args: Array[String]): Unit = {
     val names = List("Benny", "Niroshan", "Saman", "Kumara")
 
-    // Applying formats to each name
     val formattedNames = names.map {
       case "Benny" => formatNames("Benny")(toUpper)
       case "Niroshan" => formatNames("Niroshan")(name => {
@@ -29,10 +28,9 @@ object StringFormatter {
         val upperEnd = name.substring(5).toUpperCase()
         upper + lower + upperEnd
       })
-      case other => other // default case, just in case there are other names
+      case other => other 
     }
 
-    // Print the formatted names
     formattedNames.foreach(println)
   }
 }
