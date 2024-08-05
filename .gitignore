@@ -1,2 +1,5 @@
 *.class
 *.tasty
+/.bsp
+/.metals
+/.vscode
