@@ -1,0 +1,63 @@
+2024.08.05 23:45:04 INFO  Started: Metals version 1.3.5 in folders 'C:\Users\lisit\OneDrive\Desktop\sem1\Scala\SCS2204-Functional-Programming\lab_sub_7' for client Visual Studio Code 1.92.0.
+SLF4J(W): Class path contains multiple SLF4J providers.
+SLF4J(W): Found provider [scribe.slf4j.ScribeServiceProvider@5e895445]
+SLF4J(W): Found provider [ch.qos.logback.classic.spi.LogbackServiceProvider@43883706]
+SLF4J(W): See https://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J(I): Actual provider is of type [scribe.slf4j.ScribeServiceProvider@5e895445]
+2024.08.05 23:45:04 WARN  Flyway upgrade recommended: H2 2.3.230 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+Aug 05, 2024 11:45:06 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2
+Aug 05, 2024 11:45:06 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1
+2024.08.05 23:45:06 INFO  no build target found for C:\Users\lisit\OneDrive\Desktop\sem1\Scala\SCS2204-Functional-Programming\lab_sub_7\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.05 23:45:06 INFO  no build target found for C:\Users\lisit\OneDrive\Desktop\sem1\Scala\SCS2204-Functional-Programming\lab_sub_7\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.05 23:45:07 INFO  no build target found for C:\Users\lisit\OneDrive\Desktop\sem1\Scala\SCS2204-Functional-Programming\lab_sub_7\q3.scala. Using presentation compiler with project's scala-library version: 3.3.3
+Aug 05, 2024 11:45:07 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8
+Aug 05, 2024 11:45:07 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11
+2024.08.05 23:45:07 INFO  no build target found for C:\Users\lisit\OneDrive\Desktop\sem1\Scala\SCS2204-Functional-Programming\lab_sub_7\q3.scala. Using presentation compiler with project's scala-library version: 3.3.3
+Aug 05, 2024 11:45:07 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 13
+2024.08.05 23:45:07 WARN  no build target for: C:\Users\lisit\OneDrive\Desktop\sem1\Scala\SCS2204-Functional-Programming\lab_sub_7\q3.scala
+Aug 05, 2024 11:45:07 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 9
+2024.08.05 23:45:07 INFO  no build target found for C:\Users\lisit\OneDrive\Desktop\sem1\Scala\SCS2204-Functional-Programming\lab_sub_7\q3.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.05 23:45:07 INFO  Running List(C:\Users\lisit\AppData\Local\Coursier\data\bin\scala-cli.BAT, setup-ide, C:\Users\lisit\OneDrive\Desktop\sem1\Scala\SCS2204-Functional-Programming\lab_sub_7)
+2024.08.05 23:45:07 INFO  Attempting to connect to the build server...
+2024.08.05 23:45:07 INFO  Running BSP server List(C:\Users\lisit\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, C:\Users\lisit\OneDrive\Desktop\sem1\Scala\SCS2204-Functional-Programming\lab_sub_7\.scala-build\ide-options-v2.json, --json-launcher-options, C:\Users\lisit\OneDrive\Desktop\sem1\Scala\SCS2204-Functional-Programming\lab_sub_7\.scala-build\ide-launcher-options.json, --envs-file, C:\Users\lisit\OneDrive\Desktop\sem1\Scala\SCS2204-Functional-Programming\lab_sub_7\.scala-build\ide-envs.json, C:\Users\lisit\OneDrive\Desktop\sem1\Scala\SCS2204-Functional-Programming\lab_sub_7)
+2024.08.05 23:45:08 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\lisit\OneDrive\Desktop\sem1\Scala\SCS2204-Functional-Programming\lab_sub_7\.metals\bsp.trace.json or C:\Users\lisit\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.08.05 23:45:10 WARN  Could not find semantic tokens for: file:///C:/Users/lisit/OneDrive/Desktop/sem1/Scala/SCS2204-Functional-Programming/lab_sub_7/q3.scala
+2024.08.05 23:45:12 INFO  no build target found for C:\Users\lisit\OneDrive\Desktop\sem1\Scala\SCS2204-Functional-Programming\lab_sub_7\q3.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.05 23:45:12 INFO  time: Connected to build server in 4.33s
+2024.08.05 23:45:12 INFO  Connected to Build server: scala-cli v1.4.1
+2024.08.05 23:45:12 INFO  running doctor check
+2024.08.05 23:45:12 INFO  java targets: lab_sub_7_ff3ffe18cb, lab_sub_7_ff3ffe18cb-test
+2024.08.05 23:45:13 INFO  compiling lab_sub_7_ff3ffe18cb (3 scala sources)
+2024.08.05 23:45:13 INFO  time: compiled lab_sub_7_ff3ffe18cb in 0.41s
+2024.08.05 23:45:13 INFO  compiling lab_sub_7_ff3ffe18cb (3 scala sources)
+2024.08.05 23:45:13 INFO  time: compiled lab_sub_7_ff3ffe18cb in 0.36s
+2024.08.05 23:45:15 WARN  Flyway upgrade recommended: H2 2.3.230 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.08.05 23:45:16 INFO  time: indexed workspace in 4.03s
+2024.08.05 23:45:17 INFO  compiling lab_sub_7_ff3ffe18cb (3 scala sources)
+2024.08.05 23:45:17 INFO  time: compiled lab_sub_7_ff3ffe18cb in 0.21s
+2024.08.05 23:45:17 INFO  compiling lab_sub_7_ff3ffe18cb (3 scala sources)
+2024.08.05 23:45:17 INFO  time: compiled lab_sub_7_ff3ffe18cb in 0.21s
+2024.08.05 23:45:19 INFO  compiling lab_sub_7_ff3ffe18cb (3 scala sources)
+2024.08.05 23:45:19 INFO  time: compiled lab_sub_7_ff3ffe18cb in 0.32s
+2024.08.05 23:45:21 INFO  compiling lab_sub_7_ff3ffe18cb (3 scala sources)
+2024.08.05 23:45:21 INFO  time: compiled lab_sub_7_ff3ffe18cb in 0.19s
+2024.08.05 23:45:24 INFO  compiling lab_sub_7_ff3ffe18cb (3 scala sources)
+2024.08.05 23:45:24 INFO  time: compiled lab_sub_7_ff3ffe18cb in 0.19s
+2024.08.05 23:45:24 INFO  compiling lab_sub_7_ff3ffe18cb (3 scala sources)
+2024.08.05 23:45:24 INFO  time: compiled lab_sub_7_ff3ffe18cb in 0.16s
+2024.08.05 23:45:32 INFO  compiling lab_sub_7_ff3ffe18cb (3 scala sources)
+2024.08.05 23:45:32 INFO  time: compiled lab_sub_7_ff3ffe18cb in 0.17s
+2024.08.05 23:45:32 INFO  compiling lab_sub_7_ff3ffe18cb (3 scala sources)
+2024.08.05 23:45:33 INFO  time: compiled lab_sub_7_ff3ffe18cb in 0.14s
+2024.08.05 23:45:41 INFO  compiling lab_sub_7_ff3ffe18cb (3 scala sources)
+2024.08.05 23:45:41 INFO  time: compiled lab_sub_7_ff3ffe18cb in 0.52s
+2024.08.05 23:45:43 INFO  compiling lab_sub_7_ff3ffe18cb (1 scala source)
+2024.08.05 23:45:43 INFO  time: compiled lab_sub_7_ff3ffe18cb in 0.32s
+2024.08.05 23:46:45 INFO  compiling lab_sub_7_ff3ffe18cb (1 scala source)
+2024.08.05 23:46:45 INFO  time: compiled lab_sub_7_ff3ffe18cb in 0.43s

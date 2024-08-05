@@ -1,0 +1,20 @@
+{
+  "name": "scala-cli",
+  "argv": [
+    "C:\\Users\\lisit\\AppData\\Local\\Coursier\\data\\bin\\.scala-cli.aux.exe",
+    "bsp",
+    "--json-options",
+    "C:\\Users\\lisit\\OneDrive\\Desktop\\sem1\\Scala\\SCS2204-Functional-Programming\\lab_sub_7\\.scala-build\\ide-options-v2.json",
+    "--json-launcher-options",
+    "C:\\Users\\lisit\\OneDrive\\Desktop\\sem1\\Scala\\SCS2204-Functional-Programming\\lab_sub_7\\.scala-build\\ide-launcher-options.json",
+    "--envs-file",
+    "C:\\Users\\lisit\\OneDrive\\Desktop\\sem1\\Scala\\SCS2204-Functional-Programming\\lab_sub_7\\.scala-build\\ide-envs.json",
+    "C:\\Users\\lisit\\OneDrive\\Desktop\\sem1\\Scala\\SCS2204-Functional-Programming\\lab_sub_7"
+  ],
+  "version": "1.4.1",
+  "bspVersion": "2.1.1",
+  "languages": [
+    "scala",
+    "java"
+  ]
+}
