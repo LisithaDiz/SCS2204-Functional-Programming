@@ -61,3 +61,5 @@ WARNING: Unmatched cancel notification for request id 9
 2024.08.05 23:45:43 INFO  time: compiled lab_sub_7_ff3ffe18cb in 0.32s
 2024.08.05 23:46:45 INFO  compiling lab_sub_7_ff3ffe18cb (1 scala source)
 2024.08.05 23:46:45 INFO  time: compiled lab_sub_7_ff3ffe18cb in 0.43s
+Aug 05, 2024 11:59:17 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
