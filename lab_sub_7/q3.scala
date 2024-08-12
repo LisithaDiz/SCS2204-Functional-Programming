@@ -11,7 +11,7 @@ object q3 {
 
     def main(args: Array[String]): Unit = {
         println("Enter a list of integers separated by commas:")
-        val input3 = readLine().split(",").map(_.trim.toInt).toList
+        val input3 = (readLine().split(",").map(_.trim.toInt).toList)
         val output3 = filterPrime(input3)
         println(s"Prime numbers: $output3")
     }
