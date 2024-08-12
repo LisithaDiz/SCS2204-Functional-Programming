@@ -9,16 +9,9 @@ object q2 {
 
   def main(args: Array[String]): Unit = {
     if (args.length > 0) {
-      try {
-        val inputNumber = args(0).toInt
-
-        val result = categorizeNumber(inputNumber)
-
-        println(result)
-      } catch {
-        case _: NumberFormatException =>
-          println("Please enter a valid integer.")
-      }
+      val inputNumber = args(0).toInt
+      val result = categorizeNumber(inputNumber)
+      println(result)
     } else {
       println("Please provide an integer as a command-line argument.")
     }
