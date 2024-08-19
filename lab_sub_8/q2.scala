@@ -8,7 +8,7 @@ object q2 {
   }
 
   def main(args: Array[String]): Unit = {
-    if (args.length > 0) {
+    if (args.length > 0 || args[0].toInt) {
       val inputNumber = args(0).toInt
       val result = categorizeNumber(inputNumber)
       println(result)

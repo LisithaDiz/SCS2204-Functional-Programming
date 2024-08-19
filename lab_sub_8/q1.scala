@@ -1,5 +1,3 @@
-
-
 object q1 {
     def encryptCaesar(plainText: String, shift: Int): String = {
       plainText.map { char =>
